@@ -1,5 +1,5 @@
 <h1>PDF ABCpdf.Drawing</h1>
-<h2>.NET demonstrating how to port System.Drawing code for output to PDF.</h2>
+<h2>.NET project demonstrating how to port System.Drawing code for output to PDF.</h2>
 <p>This code sample shows how to:</p>
 <ul>
 <li>Stroke and fill paths</li>
