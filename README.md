@@ -12,4 +12,8 @@
 <li>Draw, fill and outline text</li>
 <li>Show and manipulate raster images</li>
 </ul>
+<p>In the screenshots below you can see a variety of outputs from this project.</p>
+<p><img src="README-adv_bezier.pdf.png" /></p>
+<p><img src="README-adv_linecap.pdf.png" /></p>
+<p><img src="README-adv_star_rotate.pdf.png" /></p>
 <p><em>The ABCpdf Team</em></p>
